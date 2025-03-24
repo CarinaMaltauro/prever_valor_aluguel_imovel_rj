@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Criar modelo de previsão de preço de aluguel que permita estimar o valor de diárias de um imóvel comum. Não será considerado
+Criar modelo de previsão de preço de aluguel que permita estimar o valor de diárias de um imóvel comum. Não são considerados os
 imóveis de alto padrão. Sendo assim, um locador, sem o conhecimento de preços de imóveis equiparados ao seu, terá a possibilidade
 de estimar o preço médio do aluguel de seu imóvel no Airbnb. Já um locatário terá a possibilidade de estimar se o imóvel
 procurado no Airbnb está dentro da média de valores segundo a localidade e as características do imóvel.
