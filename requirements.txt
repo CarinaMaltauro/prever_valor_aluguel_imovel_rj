@@ -1,8 +1,8 @@
-### Dados
+DADOS
 
 Bases de dados do site kaggle: https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
 
-### Instalações 
+INSTALAÇÕES
 
 pip install pandas
 pip install seaborn
@@ -11,14 +11,14 @@ pip install joblib
 pip install streamlit
 
 
-# Sobre instalações
+SOBRE INSTALAÇÕES
 
 As instalações joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
 
-# Sobre o ambiente do projeto
+SOBRE O AMBIENTE DO PROJETO 
 
 O projeto foi construído no Jupyter Notebook. E o arquivo deploy.py foi gerado a partir de deploy.ipynb em File, Save and Export Notebook As, Executable Script.
 
-# Sobre o deploy
+SOBRE O DEPLOY
 
 Para efetivar o deploy, no terminal Anaconda Prompt, entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
