@@ -1,30 +1,6 @@
-# Projeto Airbnb Rio - Previsão de Preço Médio de Imóvel 
-
-### Objetivo
-
-Criar modelo de previsão de preço de aluguel que permita estimar o valor de diárias de um imóvel comum. Não será considerado
-imóveis de alto padrão. Sendo assim, um locador, sem o conhecimento de preços de imóveis equiparados ao seu, terá a possibilidade
-de estimar o preço médio do aluguel de seu imóvel no Airbnb. Já um locatário terá a possibilidade de estimar se o imóvel
-procurado no Airbnb está dentro da média de valores segundo a localidade e as características do imóvel.
-
-
-### Instruções
-
-Para mais informações sobre dados, instalações e procedimentos de deploy, vide requirements.txt.
-
-
-### Conclusão
-
-A princípio, a sazonalidade foi considerada como um possível fator de interferência no preço das diárias do imóvel, no entanto,
-as variáveis month e year pouco interferiram nos preços. Já bedrooms, latitude, longitude e n_amenities (número de comodidades)
-possuem expressiva importância. O número de quartos sugere que os locatários priorizam a privacidade. Latitude e longitude estão
-de acordo com o esperado em relação a localidade. E o fator n_amenities não interfere de forma diretamente proporcional no preço,
-isso pode estar relacionado a qualidade das amenities, uma churrasqueira pode ser mais interessante que ventilador, panelas e cor-
-tinas.
-
 ### Dados
 
-Bases de dados site kaggle: https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
+Bases de dados do site kaggle: https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
 
 ### Instalações 
 
@@ -36,12 +12,12 @@ pip install streamlit
 
 
 # Sobre instalações
+
 As instalações joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
 
 # Sobre o ambiente do projeto
 
-O projeto foi construído no Jupyter Notebook. E o arquivo deploy.py foi gerado a partir de deploy.ipynb em File,
-Save and Export Notebook As, Executable Script.
+O projeto foi construído no Jupyter Notebook. E o arquivo deploy.py foi gerado a partir de deploy.ipynb em File, Save and Export Notebook As, Executable Script.
 
 # Sobre o deploy
 
