@@ -20,7 +20,7 @@ Para mais informações sobre dados, instalações e procedimentos de deploy, vi
 ## Conclusão
 
 A princípio, a sazonalidade foi considerada como um possível fator de interferência no preço das diárias do imóvel, no entanto,
-as variáveis month e year pouco interferiram nos preços. Já bedrooms, latitude, longitude e n_amenities (número de comodidades)
+as variáveis month e year interferiram pouco nos preços. Já bedrooms, latitude, longitude e n_amenities (número de comodidades)
 possuem expressiva importância. O número de quartos sugere que os locatários priorizam a privacidade. Latitude e longitude estão
 de acordo com o esperado em relação a localidade. E o fator n_amenities não interfere de forma diretamente proporcional no preço,
 isso pode estar relacionado a qualidade das amenities, uma churrasqueira pode ser mais interessante que ventilador, panelas e cor-
