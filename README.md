@@ -1,8 +1,6 @@
-<h1 align="center">Projeto Airbnb Rio - Previsão de Preço Médio de Aluguel de Imóvel</h1>
+<h1 align="center">Projeto Airbnb Rio - Previsão de Preço Médio de Aluguel de Imóvel  <img src="https://cdn-icons-png.freepik.com/256/258/258530.png?ga=GA1.1.763163565.1742925562&semt=ais_hybrid" width="25" heigth="25" > </h1>
 
-<p align="center">
-Carina Maltauro <br/>
-</p>
+<p align="center">Carina R. P. M. Dias</p>
 
 ## Objetivo
 
