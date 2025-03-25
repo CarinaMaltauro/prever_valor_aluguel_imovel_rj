@@ -1,6 +1,10 @@
-# Projeto Airbnb Rio - Previsão de Preço Médio de Imóvel 
+<h1 align="center">Projeto Airbnb Rio - Previsão de Preço Médio de Aluguel de Imóvel</h1>
 
-### Objetivo
+<p align="center">
+Carina Maltauro <br/>
+</p>
+
+## Objetivo
 
 Criar modelo de previsão de preço de aluguel que permita estimar o valor de diárias de um imóvel comum. Não são considerados os
 imóveis de alto padrão. Sendo assim, um locador, sem o conhecimento de preços de imóveis equiparados ao seu, terá a possibilidade
@@ -8,12 +12,12 @@ de estimar o preço médio do aluguel de seu imóvel no Airbnb. Já um locatári
 procurado no Airbnb está dentro da média de valores segundo a localidade e as características do imóvel.
 
 
-### Instruções
+## Instruções
 
 Para mais informações sobre dados, instalações e procedimentos de deploy, vide requirements.txt.
 
 
-### Conclusão
+## Conclusão
 
 A princípio, a sazonalidade foi considerada como um possível fator de interferência no preço das diárias do imóvel, no entanto,
 as variáveis month e year pouco interferiram nos preços. Já bedrooms, latitude, longitude e n_amenities (número de comodidades)
