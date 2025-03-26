@@ -13,12 +13,12 @@ pip install streamlit
 
 SOBRE INSTALAÇÕES
 
-As instalações joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
+Instalações joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
 
-SOBRE O AMBIENTE DO PROJETO 
+SOBRE IDE
 
-O projeto foi construído no Jupyter Notebook. E o arquivo deploy.py foi gerado a partir de deploy.ipynb em File, Save and Export Notebook As, Executable Script.
+Projeto construído no Jupyter Notebook do Anaconda.
 
-SOBRE O DEPLOY
+SOBRE DEPLOY
 
-Para efetivar o deploy, no terminal Anaconda Prompt, entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
+Efetive o deploy, no terminal Anaconda Prompt, entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
