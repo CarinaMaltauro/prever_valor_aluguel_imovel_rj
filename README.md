@@ -4,10 +4,8 @@
 
 ## Objetivo
 
-Criar modelo de previsão de preço de aluguel que permita estimar o valor de diárias de um imóvel comum. Não são considerados os
-imóveis de alto padrão. Sendo assim, um locador, sem o conhecimento de preços de imóveis equiparados ao seu, terá a possibilidade
-de estimar o preço médio do aluguel de seu imóvel no Airbnb. Já um locatário terá a possibilidade de estimar se o imóvel
-procurado no Airbnb está dentro da média de valores segundo a localidade e as características do imóvel.
+Criar um modelo de previsão de preço de aluguel que permita estimar o valor das diárias de um imóvel comum, excluindo imóveis de alto padrão. Dessa forma, um locador, sem o conhecimento prévio dos preços de imóveis semelhantes ao seu, poderá estimar o preço médio do aluguel do seu imóvel no Airbnb. Da mesma forma, um locatário poderá verificar se o imóvel que está buscando no Airbnb está dentro da média de preços, considerando a localidade e as características do imóvel. A consulta ao preço estimado de aluguel deverá ser feita por meio de um link disponibilizado pelo Streamlit, que conterá um formulário a ser preenchido pelo usuário.
+
 
 
 ## Instruções
@@ -15,12 +13,7 @@ procurado no Airbnb está dentro da média de valores segundo a localidade e as 
 Para mais informações sobre dados, instalações e procedimentos de deploy, vide requirements.txt.
 
 
-## Conclusão
+## Resultados
+A princípio, mês e ano foram considerados como possíveis fatores de interferência no preço das diárias do imóvel; no entanto, esses fatores não influenciaram tanto o preço. Por outro lado, quartos, latitude, longitude e o número de comodidades apresentaram uma importância expressiva. A quantidade de quartos sugeriu que "locatários priorizam a privacidade". A influência da latitude e longitude está de acordo com o esperado, refletindo a importância da localização. Já o fator número de comodidades não se relaciona de forma diretamente proporcional ao preço, o que pode estar relacionado à qualidade das comodidades, pois uma churrasqueira pode ser mais atraente do que um ventilador, cozinha equipada ou cortinas.
 
-A princípio, a sazonalidade foi considerada como um possível fator de interferência no preço das diárias do imóvel, no entanto,
-as variáveis month e year não interferiram tanto no preço. Já bedrooms, latitude, longitude e n_amenities (número de comodidades)
-possuem expressiva importância. Bedrooms sugere que "locatários priorizam a privacidade". A importância de latitude e longitude
-estão de acordo com o esperado em relação a localidade. E o fator n_amenities não interfere de forma diretamente proporcional
-no preço, isso pode estar relacionado a qualidade das amenities, pois uma churrasqueira pode ser mais interessante que ventilador,
-panelas e cortinas.
 
