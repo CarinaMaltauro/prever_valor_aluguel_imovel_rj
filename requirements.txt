@@ -1,14 +1,8 @@
-DADOS
-
-Bases de dados do site kaggle: https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
-
-INSTALAÇÕES
-
-pip install pandas
-pip install seaborn
-pip install plotly
-pip install joblib
-pip install streamlit
+pandas==2.2.2
+seaborn==0.13.2
+plotly==5.24.1
+joblib==1.4.2
+streamlit==1.37.1
 
 
 SOBRE INSTALAÇÕES
