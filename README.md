@@ -10,13 +10,13 @@ Criar um modelo de previsão de preço de aluguel que permita estimar o valor da
 
 ## Instruções
 
-Dados: https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
+DADOS: https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
 
 IDE: Projeto construído no Anaconda Jupyter Notebook.
 
-Instalações: joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
+INSTALAÇÕES: joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
 
-Deploy: Passe o arquivo deploy.ipynb para deploy.py. No terminal Anaconda Prompt entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
+DEPLOY: Passe o arquivo deploy.ipynb para deploy.py. No terminal Anaconda Prompt entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
 
 
 
