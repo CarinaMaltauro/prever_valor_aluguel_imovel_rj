@@ -10,10 +10,13 @@ Criar um modelo de previsão de preço de aluguel que permita estimar o valor da
 
 ## Instruções
 
+DADOS
+https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
+
 Para mais informações sobre dados, instalações e procedimentos de deploy, vide requirements.txt.
 
 
 ## Resultados
-A princípio, mês e ano foram considerados como possíveis fatores de interferência no preço das diárias do imóvel; no entanto, esses fatores não influenciaram tanto o preço. Por outro lado, quartos, latitude, longitude e o número de comodidades apresentaram uma importância expressiva. A quantidade de quartos sugeriu que "locatários priorizam a privacidade". A influência da latitude e longitude está de acordo com o esperado, refletindo a importância da localização. Já o fator número de comodidades não se relaciona de forma diretamente proporcional ao preço, o que pode estar relacionado à qualidade das comodidades, pois uma churrasqueira pode ser mais atraente do que um ventilador, cozinha equipada ou cortinas.
+A princípio, mês e ano foram considerados como possíveis fatores de interferência no preço das diárias do imóvel; no entanto, esses fatores não influenciaram tanto o preço. Por outro lado, quartos, latitude, longitude e o número de comodidades apresentaram uma importância expressiva. A quantidade de quartos pode sugerir que "locatários priorizam a privacidade, a divisão de custos e realizar viagem com família ou amigos". A influência da latitude e longitude está de acordo com o esperado, refletindo a importância da localização. Já o fator número de comodidades não se relaciona de forma diretamente proporcional ao preço, o que pode estar relacionado à qualidade das comodidades, pois uma churrasqueira pode ser mais atraente do que um ventilador, cozinha equipada ou cortinas.
 
 
