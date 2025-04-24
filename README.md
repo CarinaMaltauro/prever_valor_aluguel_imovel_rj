@@ -10,13 +10,18 @@ Criar um modelo de previsão de preço de aluguel que permita estimar o valor da
 
 ## Instruções
 
-DADOS
-https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
+Dados: https://www.kaggle.com/code/allanbruno/helping-regular-people-price-listings-on-airbnb/input?select=total_data.csv
 
-Para mais informações sobre dados, instalações e procedimentos de deploy, vide requirements.txt.
+IDE: Projeto construído no Anaconda Jupyter Notebook.
+
+Instalações: joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
+
+Deploy: Passe o arquivo deploy.ipynb para deploy.py. No terminal Anaconda Prompt entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
+
 
 
 ## Resultados
+
 A princípio, mês e ano foram considerados como possíveis fatores de interferência no preço das diárias do imóvel; no entanto, esses fatores não influenciaram tanto o preço. Por outro lado, quartos, latitude, longitude e o número de comodidades apresentaram uma importância expressiva. A quantidade de quartos pode sugerir que "locatários priorizam a privacidade, a divisão de custos e realizar viagem com família ou amigos". A influência da latitude e longitude está de acordo com o esperado, refletindo a importância da localização. Já o fator número de comodidades não se relaciona de forma diretamente proporcional ao preço, o que pode estar relacionado à qualidade das comodidades, pois uma churrasqueira pode ser mais atraente do que um ventilador, cozinha equipada ou cortinas.
 
 
