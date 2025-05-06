@@ -16,7 +16,7 @@ IDE: Projeto construído no Anaconda Jupyter Notebook.
 
 INSTALAÇÕES: joblib e streamlit foram realizadas no Anaconda Prompt no diretório base do usuário.
 
-DEPLOY: Passe o arquivo deploy.ipynb para deploy.py. No terminal Anaconda Prompt entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
+TESTE DE DEPLOY: Passe o arquivo deploy.ipynb para deploy.py. No terminal Anaconda Prompt entre na pasta do projeto e rode "streamlit run deploy.py" sem as aspas.
 
 
 
