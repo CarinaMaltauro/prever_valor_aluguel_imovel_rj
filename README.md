@@ -1,3 +1,20 @@
+## Licença
+Este projeto está licenciado sob a Licença Apache 2.0.
+
+## Atribuição obrigatória
+De acordo com os termos da licença Apache 2.0, qualquer pessoa que reutilizar este código (total ou parcialmente) deve incluir atribuição ao autor original:
+
+Código criado por @CarinaMaltauro
+
+A atribuição pode ser feita:
+
+Nos arquivos de código (comentários)
+
+Na documentação do projeto derivado
+
+Ou em qualquer local visível e apropriado
+
+
 <h1 align="center">Projeto Airbnb Rio - Previsão de Preço Médio de Aluguel de Imóvel  <img src="https://cdn-icons-png.freepik.com/256/258/258530.png?ga=GA1.1.763163565.1742925562&semt=ais_hybrid" width="25" heigth="25" > </h1>
 
 <p align="center">Carina R P M Dias</p>
